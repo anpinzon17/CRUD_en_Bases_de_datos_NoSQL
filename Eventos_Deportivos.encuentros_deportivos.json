@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6484f743bcf86cd799d7a132"
+  },
+  "fecha": {
+    "$date": "2024-11-08T00:00:00.000Z"
+  },
+  "lugar": "camping",
+  "equipos_participantes": [
+    {
+      "$oid": "6484f743bcf86cd799d7a12f"
+    },
+    {
+      "$oid": "6484f743bcf86cd799d7a130"
+    }
+  ],
+  "arbitro": {
+    "$oid": "6484f743bcf86cd799d7a134"
+  }
+},
+{
+  "_id": {
+    "$oid": "6484f743bcf86cd799d7a133"
+  },
+  "fecha": {
+    "$date": "2024-11-15T00:00:00.000Z"
+  },
+  "lugar": "bernabeu",
+  "equipos_participantes": [
+    {
+      "$oid": "6484f743bcf86cd799d7a130"
+    },
+    {
+      "$oid": "6484f743bcf86cd799d7a12f"
+    }
+  ],
+  "arbitro": {
+    "$oid": "6484f743bcf86cd799d7a135"
+  }
+}]

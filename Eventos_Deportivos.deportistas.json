@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "673a85aecc25c3db5249ed3b"
+  },
+  "nombre": "Luisa Montero",
+  "edad": 24,
+  "equipo": {
+    "$oid": "6484f743bcf86cd799d7a12f"
+  },
+  "posicion": "Delantera",
+  "documento": "123456789"
+},
+{
+  "_id": {
+    "$oid": "673a85aecc25c3db5249ed3c"
+  },
+  "nombre": "Cristhian Gallo",
+  "edad": 28,
+  "equipo": {
+    "$oid": "6484f743bcf86cd799d7a130"
+  },
+  "posicion": "Defensa",
+  "documento": "10336765"
+},
+{
+  "_id": {
+    "$oid": "673a869acc25c3db5249ed45"
+  },
+  "nombre": "Carla Moreno",
+  "edad": 24,
+  "equipo": {
+    "$oid": "6484f743bcf86cd799d7a12f"
+  },
+  "posicion": "Lateral",
+  "documento": "753567356"
+},
+{
+  "_id": {
+    "$oid": "673a869acc25c3db5249ed46"
+  },
+  "nombre": "Sofia Alvarez",
+  "edad": 28,
+  "equipo": {
+    "$oid": "6484f743bcf86cd799d7a130"
+  },
+  "posicion": "Defensa",
+  "documento": "87456345"
+}]

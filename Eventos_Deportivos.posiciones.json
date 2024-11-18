@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "673a8612cc25c3db5249ed41"
+  },
+  "posicion": 1,
+  "equipo": {
+    "$oid": "6484f743bcf86cd799d7a12f"
+  },
+  "puntos": 30,
+  "temporada": "2025"
+},
+{
+  "_id": {
+    "$oid": "673a8612cc25c3db5249ed42"
+  },
+  "posicion": 2,
+  "equipo": {
+    "$oid": "6484f743bcf86cd799d7a130"
+  },
+  "puntos": 28,
+  "temporada": "2024"
+}]

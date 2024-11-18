@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "673a85e9cc25c3db5249ed3d"
+  },
+  "nombre": "Angela Pinzón",
+  "equipo": {
+    "$oid": "6484f743bcf86cd799d7a12f"
+  },
+  "experiencia": 10,
+  "especializacion": "training"
+},
+{
+  "_id": {
+    "$oid": "673a85e9cc25c3db5249ed3e"
+  },
+  "nombre": "Rosa Suarez ",
+  "equipo": {
+    "$oid": "6484f743bcf86cd799d7a130"
+  },
+  "experiencia": 8,
+  "especializacion": "Táctica"
+}]

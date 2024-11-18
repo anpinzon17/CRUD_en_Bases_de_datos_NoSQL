@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "673a8600cc25c3db5249ed3f"
+  },
+  "nombre": "Juan Jimenez",
+  "encuentros_asignados": [
+    {
+      "$oid": "6484f743bcf86cd799d7a132"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a8600cc25c3db5249ed40"
+  },
+  "nombre": "Michel Pinzon",
+  "encuentros_asignados": [
+    {
+      "$oid": "6484f743bcf86cd799d7a133"
+    }
+  ]
+}]

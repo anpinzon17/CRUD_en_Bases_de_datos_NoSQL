@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "673a8631cc25c3db5249ed43"
+  },
+  "ganador": {
+    "$oid": "6484f743bcf86cd799d7a12f"
+  },
+  "perdedor": {
+    "$oid": "6484f743bcf86cd799d7a130"
+  },
+  "resultado": "1-1",
+  "encuentro": {
+    "$oid": "6484f743bcf86cd799d7a132"
+  }
+},
+{
+  "_id": {
+    "$oid": "673a8631cc25c3db5249ed44"
+  },
+  "ganador": {
+    "$oid": "6484f743bcf86cd799d7a130"
+  },
+  "perdedor": {
+    "$oid": "6484f743bcf86cd799d7a12f"
+  },
+  "resultado": "1-0",
+  "encuentro": {
+    "$oid": "6484f743bcf86cd799d7a133"
+  }
+}]
